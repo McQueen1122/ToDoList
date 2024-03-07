@@ -14,3 +14,8 @@ A simple to-do list application built with React.
 
    ```bash
    git clone https://github.com/your-username/react-todo-list.git
+
+Navigate to the project directory:   
+   ```bash
+      cd react-todo-list
+
